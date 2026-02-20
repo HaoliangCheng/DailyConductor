@@ -1,0 +1,12 @@
+# Sensitive information
+.env
+*.key
+credentials.json
+
+# IDE Files
+.cursor/
+.vscode/
+
+# Google Apps Script specific (if using clasp)
+.clasp.json
+node_modules/
